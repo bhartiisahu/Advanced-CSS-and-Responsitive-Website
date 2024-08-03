@@ -1,7 +1,7 @@
 # Advanced-CSS-and-Responsitive-Website
-A simple portfolio using html, css and javascript!!
+!! A simple portfolio using html, css and javascript!!
 
-Live Demo : http://127.0.0.1:5500/portfolio-website/index.html
+
 
 1. **Clone the repository:**
    ```bash
