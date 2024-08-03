@@ -5,7 +5,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-link>
+   git clone <repository-link>](https://github.com/bhartiisahu/Advanced-CSS-and-Responsitive-Website.git)
    ```
 
 2. **Open in Live Server:**
