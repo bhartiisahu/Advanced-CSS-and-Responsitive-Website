@@ -20,7 +20,9 @@ Live Demo : http://127.0.0.1:5500/portfolio-website/index.html
    - Right-click on your `index.html` file and select "Open with Live Server".
 
   
-Video link:- "C:\Users\91810\Videos\EaseUS RecExperts\20240803_223611.mp4"
+Video Tutorial :- "C:\Users\91810\Videos\EaseUS RecExperts\20240803_223611.mp4"  (copy paste in browser)
+
+
 ![image](https://github.com/user-attachments/assets/2f2a4434-e838-4035-9e97-422e8c314366)
 
 ![image](https://github.com/user-attachments/assets/1fb5e147-bc8a-43f4-886f-d1e68c468d8c)
